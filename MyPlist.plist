@@ -17,11 +17,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>在线安装测试</string>
+				<string>右耳</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1</string>
 				<key>releaseNotes</key>
-				<string>测试OTA</string>
+				<string>测试</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
