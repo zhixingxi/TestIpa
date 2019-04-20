@@ -17,15 +17,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>title</key>
-				<string>右耳</string>
+				<string>App名字</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>版本号</string>
 				<key>releaseNotes</key>
-				<string>测试</string>
+				<string>更新内容</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>com.yunfeng.rightEar</string>
+				<string>你自己项目的bundle ID</string>
 			</dict>
 		</dict>
 	</array>
